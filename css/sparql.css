@@ -1,0 +1,15 @@
+form {
+margin: 20px;
+padding: 20px;
+}
+
+textarea {
+  font-family: Monaco, fixed-width;
+}
+
+input.query-button {
+  display: block;
+  margin: 1em;
+  font-size: 1.5em;
+  padding: 0.5em;
+}

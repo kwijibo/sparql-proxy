@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors
+END
+ARC2_DcExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_DcExtractor.php
+END
+ARC2_HatomExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_HatomExtractor.php
+END
+ARC2_RDFExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_RDFExtractor.php
+END
+ARC2_XfnExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_XfnExtractor.php
+END
+ARC2_RdfaExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_RdfaExtractor.php
+END
+ARC2_HcardFoafExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_HcardFoafExtractor.php
+END
+ARC2_OpenidExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_OpenidExtractor.php
+END
+ARC2_RelTagSkosExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_RelTagSkosExtractor.php
+END
+ARC2_ErdfExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_ErdfExtractor.php
+END
+ARC2_HcalendarExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_HcalendarExtractor.php
+END
+ARC2_AdrFoafExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_AdrFoafExtractor.php
+END
+ARC2_MicroformatsExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_MicroformatsExtractor.php
+END
+ARC2_RelTagDcExtractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/extractors/ARC2_RelTagDcExtractor.php
+END

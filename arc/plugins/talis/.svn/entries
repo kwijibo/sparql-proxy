@@ -1,0 +1,79 @@
+8
+
+dir
+42735
+http://mrpotatohead/svn-repos/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis
+http://mrpotatohead/svn-repos
+
+
+
+2009-02-11T10:11:45.287054Z
+37777
+ka
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cddbaf53-7d3a-3f44-85ff-d5d6dcf41e07
+
+Talis_StorePlugin.demo.php
+file
+
+
+
+
+2009-05-26T12:44:36.000000Z
+3e6b0595a46832aa7ec91c223d012e5f
+2009-02-11T10:11:45.287054Z
+37777
+ka
+
+Talis_StoreLoadQueryHandler.php
+file
+
+
+
+
+2009-05-26T12:44:36.000000Z
+a3fa1fab0f28ca60515c7f78352fc5c5
+2009-02-11T10:11:45.287054Z
+37777
+ka
+
+moriarty
+dir
+
+Talis_ChangeSetBuilderPlugin.php
+file
+
+
+
+
+2009-05-26T12:44:36.000000Z
+984b7043bb27d7c5ea2c11b795761807
+2009-02-11T10:11:45.287054Z
+37777
+ka
+
+Talis_StorePlugin.php
+file
+
+
+
+
+2009-05-26T12:44:36.000000Z
+da143e0bbe337c6c7fb067f000bf53dc
+2009-02-11T10:11:45.287054Z
+37777
+ka
+

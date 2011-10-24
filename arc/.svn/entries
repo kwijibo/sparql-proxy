@@ -1,0 +1,114 @@
+8
+
+dir
+42735
+http://mrpotatohead/svn-repos/Applications/Revyu/branches/Sprint_1.2/lib/arc2
+http://mrpotatohead/svn-repos
+
+
+
+2009-02-11T12:53:01.343262Z
+37811
+ka
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cddbaf53-7d3a-3f44-85ff-d5d6dcf41e07
+
+parsers
+dir
+
+ARC2_Reader.php
+file
+
+
+
+
+2009-05-26T12:44:37.000000Z
+3d51f5d7dfe72e2ed61bfdaa5c22e9d0
+2009-02-11T10:11:45.287054Z
+37777
+ka
+has-props
+
+plugins
+dir
+
+ARC2_Class.php
+file
+
+
+
+
+2009-05-26T12:44:37.000000Z
+c9e8ef3bd22f3e85b5b9704c36a6879e
+2009-02-11T10:11:45.287054Z
+37777
+ka
+has-props
+
+ARC2_getPreferredFormat.php
+file
+
+
+
+
+2009-05-26T12:44:37.000000Z
+0bb684c0b68edd9eb0f2893741b8070b
+2009-02-11T10:11:45.287054Z
+37777
+ka
+has-props
+
+ARC2_getFormat.php
+file
+
+
+
+
+2009-05-26T12:44:37.000000Z
+672497117af739e00289fbc92df0584f
+2009-02-11T10:11:45.287054Z
+37777
+ka
+has-props
+
+triggers
+dir
+
+sparqlscript
+dir
+
+serializers
+dir
+
+store
+dir
+
+ARC2.php
+file
+
+
+
+
+2009-05-26T12:44:37.000000Z
+3e45ab8535ca8df14976b913f0ec13f8
+2009-02-11T10:11:45.287054Z
+37777
+ka
+has-props
+
+extractors
+dir
+

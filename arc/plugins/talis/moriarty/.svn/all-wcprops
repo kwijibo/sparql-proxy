@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty
+END
+queryprofile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/queryprofile.class.php
+END
+httprequest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/httprequest.class.php
+END
+rollback.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/rollback.class.php
+END
+privategraph.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/privategraph.class.php
+END
+store.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/store.class.php
+END
+credentials.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/credentials.class.php
+END
+multisparqlservice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/multisparqlservice.class.php
+END
+metabox.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/metabox.class.php
+END
+storegroupconfig.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/storegroupconfig.class.php
+END
+changeset.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/changeset.class.php
+END
+graph.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/graph.class.php
+END
+networkresource.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/networkresource.class.php
+END
+fieldpredicatemap.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/fieldpredicatemap.class.php
+END
+changesetbatch.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/changesetbatch.class.php
+END
+httpcache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/httpcache.class.php
+END
+facetservice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/facetservice.class.php
+END
+config.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/config.class.php
+END
+valuepool.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/valuepool.class.php
+END
+storecollection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/storecollection.class.php
+END
+storegroup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/storegroup.class.php
+END
+moriarty.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/moriarty.inc.php
+END
+simplegraph.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/simplegraph.class.php
+END
+sparqlservicebase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/sparqlservicebase.class.php
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/COPYING
+END
+jobqueue.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/jobqueue.class.php
+END
+constants.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/constants.inc.php
+END
+httprequestfactory.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/httprequestfactory.class.php
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/readme.txt
+END
+sparqlservice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/sparqlservice.class.php
+END
+contentbox.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/talis/moriarty/contentbox.class.php
+END

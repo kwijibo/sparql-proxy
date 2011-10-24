@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn-repos/!svn/ver/37811/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/tests
+END
+ARC2_RDFaSerializerPluginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/tests/ARC2_RDFaSerializerPluginTest.php
+END
+ARC2_FormRDFConverterPluginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/tests/ARC2_FormRDFConverterPluginTest.php
+END
+ARC2_IndexUtilsPluginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/tests/ARC2_IndexUtilsPluginTest.php
+END
+ARC2_IndexUtilsPlugin.tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/tests/ARC2_IndexUtilsPlugin.tests.php
+END
+ARC2_SPARQLSerializerPluginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/tests/ARC2_SPARQLSerializerPluginTest.php
+END
+Talis_ChangeSetBuilderPluginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/tests/Talis_ChangeSetBuilderPluginTest.php
+END
+ARC2_ExhibitJSONSerializerPluginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/tests/ARC2_ExhibitJSONSerializerPluginTest.php
+END
+ARC2_TriXSerializerPluginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn-repos/!svn/ver/37811/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/tests/ARC2_TriXSerializerPluginTest.php
+END

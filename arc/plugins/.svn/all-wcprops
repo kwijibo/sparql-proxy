@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn-repos/!svn/ver/37811/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins
+END
+ARC2_RDFaSerializerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/ARC2_RDFaSerializerPlugin.php
+END
+ARC2_FormRDFConverterPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/ARC2_FormRDFConverterPlugin.php
+END
+ARC2_IndexUtilsPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/ARC2_IndexUtilsPlugin.php
+END
+ARC2_SPARQLSerializerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/ARC2_SPARQLSerializerPlugin.php
+END
+ARC2_ExhibitJSONSerializerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/ARC2_ExhibitJSONSerializerPlugin.php
+END
+ARC2_TriXSerializerPlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins/ARC2_TriXSerializerPlugin.php
+END

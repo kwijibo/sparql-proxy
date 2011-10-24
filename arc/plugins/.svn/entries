@@ -1,0 +1,106 @@
+8
+
+dir
+42735
+http://mrpotatohead/svn-repos/Applications/Revyu/branches/Sprint_1.2/lib/arc2/plugins
+http://mrpotatohead/svn-repos
+
+
+
+2009-02-11T12:53:01.343262Z
+37811
+ka
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cddbaf53-7d3a-3f44-85ff-d5d6dcf41e07
+
+tests
+dir
+
+ARC2_RDFaSerializerPlugin.php
+file
+
+
+
+
+2009-05-26T12:44:36.000000Z
+c6695e1fc67575142f529735cd8ffe38
+2009-02-11T10:11:45.287054Z
+37777
+ka
+
+ARC2_FormRDFConverterPlugin.php
+file
+
+
+
+
+2009-05-26T12:44:36.000000Z
+1703f9be53db700565801f0d3138be8f
+2009-02-11T10:11:45.287054Z
+37777
+ka
+
+ARC2_IndexUtilsPlugin.php
+file
+
+
+
+
+2009-05-26T12:44:36.000000Z
+e15f868b89291c70fc908c6a045fb7fe
+2009-02-11T10:11:45.287054Z
+37777
+ka
+
+ARC2_SPARQLSerializerPlugin.php
+file
+
+
+
+
+2009-05-26T12:44:36.000000Z
+82fbcd37c15d7ac747e35cbc4f8c0101
+2009-02-11T10:11:45.287054Z
+37777
+ka
+
+talis
+dir
+
+ARC2_ExhibitJSONSerializerPlugin.php
+file
+
+
+
+
+2009-05-26T12:44:36.000000Z
+f7f1b024b21ad6d2db64a7dc0e0c2fb8
+2009-02-11T10:11:45.287054Z
+37777
+ka
+
+ARC2_TriXSerializerPlugin.php
+file
+
+
+
+
+2009-05-26T12:44:36.000000Z
+81cc727f05abffaf330cca95e701c62d
+2009-02-11T10:11:45.287054Z
+37777
+ka
+

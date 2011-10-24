@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/serializers
+END
+ARC2_RDFSerializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/serializers/ARC2_RDFSerializer.php
+END
+ARC2_RDFXMLSerializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/serializers/ARC2_RDFXMLSerializer.php
+END
+ARC2_TurtleSerializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/serializers/ARC2_TurtleSerializer.php
+END
+ARC2_NTriplesSerializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/serializers/ARC2_NTriplesSerializer.php
+END
+ARC2_RDFJSONSerializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/serializers/ARC2_RDFJSONSerializer.php
+END

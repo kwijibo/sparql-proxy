@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn-repos/!svn/ver/37811/Applications/Revyu/branches/Sprint_1.2/lib/arc2
+END
+ARC2_Reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/ARC2_Reader.php
+END
+ARC2_Class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/ARC2_Class.php
+END
+ARC2_getPreferredFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/ARC2_getPreferredFormat.php
+END
+ARC2_getFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/ARC2_getFormat.php
+END
+ARC2.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn-repos/!svn/ver/37777/Applications/Revyu/branches/Sprint_1.2/lib/arc2/ARC2.php
+END
